@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Nimesh!</h1>
 
 <p align="center">
-  <a href="https://dev.to/nimeshkavinda">DEV</a> |
+  <a href="https://www.facebook.com/nimeshkavinda13/">Facebook</a> |
   <a href="https://twitter.com/nimeshk_">Twitter</a> |
   <a href="https://www.linkedin.com/in/nimeshkavinda">LinkedIn</a>
 </p>
@@ -9,23 +9,22 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [JavaScript, TypeScript, Java, Kotlin, CSharp, Dart, PHP, Python],
+   code: [JavaScript, TypeScript, HTML, CSS, Java, CSharp, Dart, PHP, Python],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["Bootstrap", "Material Design", "Materialize", "Tailwind CSS", "Vuetify"]
+         css: ["Bootstrap", "Material Design", "Tailwind CSS", "Vuetify"]
       },
       backEnd: {
-         js: ["Express.js"],
-         csharp: ["ASP.NET"]
+         js: ["Node", "Express"],
+         csharp: ["Asp.net"],
+         misc: ["Firebase"]
       },
-      databases: ["MySQL", "T-SQL", "Firestore"],
-      mobile: ["Flutter", "React Native", "Kotlin"],
-      misc: ["Firebase"]
+      databases: ["MySQL", "SQLServer", "MongoDB", "Firestore"],
+      mobile: ["React Native", "Flutter"],
    },
-   currentOccupation: ["undergraduate student"],
-   challenge: "getting better at guitar",
-   meowsBackToCat: true
+   currentOccupation: ["Intern Software Engineer"],
+   challenge: "Learning guitar",
 };
 ```
 
