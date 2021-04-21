@@ -9,7 +9,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [JavaScript, TypeScript, HTML, CSS, Java, CSharp, Dart, PHP, Python],
+   code: [JavaScript, TypeScript, HTML, CSS, SCSS, Java, CSharp, Dart, PHP, Python],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
