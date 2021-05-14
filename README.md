@@ -9,22 +9,24 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [JavaScript, TypeScript, HTML, CSS, SCSS, Java, CSharp, Dart, PHP, Python],
+   code: [JavaScript, TypeScript, CSS, SCSS, Java, CSharp, Dart, PHP, Python],
    technologies: {
       frontEnd: {
          js: ["React", "Vue"],
-         css: ["Bootstrap", "Material Design", "Tailwind CSS", "Vuetify"]
+         css: ["Bootstrap", "Material Design", "Tailwind CSS", "Ant Design", "Vuetify"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node.js", "Express"],
+         java: ["Spring"],
          csharp: ["Asp.net"],
-         misc: ["Firebase"]
+         misc: ["Firebase", "Heroku", "Netlify"]
       },
-      databases: ["MySQL", "SQLServer", "MongoDB", "Firestore"],
+      cloud: ["AWS", "GCP"],
+      databases: ["MySQL", "MongoDB", "DynamoDB", "Firestore"],
       mobile: ["React Native", "Flutter"],
    },
-   currentOccupation: ["Intern Software Engineer"],
-   challenge: "Learning guitar",
+   currentOccupation: ["Intern Software Engineer", "Designer"],
+   challenge: "Surviving Covid-19 😷",
 };
 ```
 
