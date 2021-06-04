@@ -19,10 +19,10 @@ const aboutMe = {
          js: ["Node.js", "Express"],
          java: ["Spring"],
          csharp: ["Asp.net"],
-         misc: ["Firebase", "Heroku", "Netlify"]
+         misc: ["Firebase", "Heroku"]
       },
       cloud: ["AWS", "GCP"],
-      databases: ["MySQL", "MongoDB", "DynamoDB", "Firestore"],
+      databases: ["MySQL", "MongoDB"],
       mobile: ["React Native", "Flutter"],
    },
    currentOccupation: ["Intern Software Engineer", "Designer"],
