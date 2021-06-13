@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Nimesh!</h1>
 
 <p align="center">
-  <a href="https://www.facebook.com/nimeshkavinda13/">Facebook</a> |
+  <a href="https://www.instagram.com/nimeshk_/">Instagram</a> |
   <a href="https://twitter.com/nimeshk_">Twitter</a> |
   <a href="https://www.linkedin.com/in/nimeshkavinda">LinkedIn</a>
 </p>
